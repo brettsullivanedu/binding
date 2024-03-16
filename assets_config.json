@@ -1,0 +1,4 @@
+[
+    {"type": "image", "name": "player", "path": "assets/player.jpg", "width": 40, "height": 40},
+    {"type": "image", "name": "enemy", "path": "assets/enemy.jpg", "width": 50, "height": 50}
+]
